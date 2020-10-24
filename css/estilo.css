@@ -1,0 +1,40 @@
+button{
+    height: 27px;
+    width: 50px;
+    border-radius: 5px;
+	background-color: black;
+	color: orange;
+}
+
+table{
+    border: 2px solid orange;
+    border-radius: 5px;
+}
+
+tr{
+    height: 44px;
+}
+
+td{
+    width: 56px;
+}
+
+.operacao{
+    background-color: black;
+    color: orange;
+}
+
+#calcular{
+    background-color: purple;
+	color: white;
+	
+}
+
+#visor{
+    height: 20px;
+    width: 210px;
+    text-align: right;
+    border-radius: 5px;
+	border: solid orange;
+	color: orange;
+}
